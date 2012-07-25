@@ -7,6 +7,17 @@ title: RubyMotionJP
 
 このサイトは [RubyMotion](http://www.rubymotion.com/) に関する日本語の情報を集積する目的で作られました。
 
+
+## 翻訳ドキュメント
+
+### ガイド
+[RubyMotion](http://www.rubymotion.com) のサイトで公開されているガイドを日本語に翻訳したものです。
+
+- [Getting Started](http://rubymotion.jp/RubyMotionDocumentation/guides/getting-started/index.html)
+- [Runtime](http://rubymotion.jp/RubyMotionDocumentation/guides/runtime/index.html)
+- [Project Management](http://rubymotion.jp/RubyMotionDocumentation/guides/project-management/index.html)
+
+
 ## Links
 
 ### [RubyMotionJP](https://github.com/RubyMotionJP) (Github Organization)
