@@ -9,14 +9,21 @@ title: RubyMotionJP
 
 
 ## 翻訳ドキュメント
+[RubyMotion - Developer Center](http://www.rubymotion.com/developer-center/) で公開されているドキュメントを日本語に翻訳したものです。
 
-### ガイド
-[RubyMotion](http://www.rubymotion.com) のサイトで公開されているガイドを日本語に翻訳したものです。
+### Guides
 
-- [Getting Started](http://rubymotion.jp/RubyMotionDocumentation/guides/getting-started/index.html)
-- [Runtime](http://rubymotion.jp/RubyMotionDocumentation/guides/runtime/index.html)
-- [Project Management](http://rubymotion.jp/RubyMotionDocumentation/guides/project-management/index.html)
+- [Getting Started](/RubyMotionDocumentation/guides/getting-started/index.html)
+- [Runtime](/RubyMotionDocumentation/guides/runtime/index.html)
+- [Project Management](/RubyMotionDocumentation/guides/project-management/index.html)
 
+### Articles
+
+- [Using CocoaPods dependencies](/RubyMotionDocumentation/articles/cocoapods/index.html)
+- [Submitting builds to TestFlight](/RubyMotionDocumentation/articles/testflight/index.html)
+- [Setting up your editor](/RubyMotionDocumentation/articles/editors/index.html)
+- [Writing Ruby gems](/RubyMotionDocumentation/articles/gems/index.html)
+- [Writing tests for apps](/RubyMotionDocumentation/articles/testing/index.html)
 
 ## Links
 
