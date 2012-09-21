@@ -27,6 +27,7 @@ title: RubyMotionJP
 - [Setting up your editor](/RubyMotionDocumentation/articles/editors/index.html)
 - [Writing Ruby gems](/RubyMotionDocumentation/articles/gems/index.html)
 - [Writing tests for apps](/RubyMotionDocumentation/articles/testing/index.html)
+- [Debugging apps](http://rubymotion.jp/RubyMotionDocumentation/articles/debugging/index.html)
 
 ## Links
 
