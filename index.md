@@ -29,6 +29,14 @@ title: RubyMotionJP
 - [Writing tests for apps](/RubyMotionDocumentation/articles/testing/index.html)
 - [Debugging apps](http://rubymotion.jp/RubyMotionDocumentation/articles/debugging/index.html)
 
+## リファレンス
+MacRuby/RubyMotion それぞれに追加されているメソッドなどのリファレンスへのリンクです。
+
+- [独自のメソッド](http://watson1978.github.com/MacRuby-DoJo/blog/2012/03/26/original-methods/)
+- [Pointer クラス](http://watson1978.github.com/MacRuby-DoJo/blog/2012/03/27/pointer-class/)
+- [Boxed クラス](http://watson1978.github.com/MacRuby-DoJo/blog/2012/03/27/boxed-class/)
+- [Dispatch モジュール](http://watson1978.github.com/MacRuby-DoJo/blog/2012/03/31/dispatch-class/)
+
 ## Links
 
 ### [RubyMotionJP](https://github.com/RubyMotionJP) (Github Organization)
