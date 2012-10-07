@@ -54,3 +54,8 @@ RubyMotion についての日本語での情報交換や勉強会等の相談を
 ### [RubyMotion / Qiita](http://qiita.com/tags/RubyMotion)
 
 Qiita に投稿された RubyMotion の記事です。
+
+
+### [RubyMoion / はてなブックマーク](http://b.hatena.ne.jp/search/tag?q=rubymotion&users=1)
+
+はてなでブックマークされている RubyMotion に関する記事です。
