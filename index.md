@@ -8,7 +8,9 @@ title: RubyMotionJP
 このサイトは [RubyMotion](http://www.rubymotion.com/) に関する日本語の情報を集積する目的で作られました。
 
 ## イベント情報
-- [RubyMotion もくもく会](http://connpass.com/event/1039/)
+- [第2回 RubyMotion もくもく会](http://connpass.com/event/1201/)
+2012/10/18 (木) 19:30 から開催されます。
+- [第1回 RubyMotion もくもく会](http://connpass.com/event/1039/)
 2012/09/26 (水) 19:30 から開催されます。
 
 ## 翻訳ドキュメント
