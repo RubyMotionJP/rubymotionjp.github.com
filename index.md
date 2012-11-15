@@ -8,6 +8,7 @@ title: RubyMotionJP
 このサイトは [RubyMotion](http://www.rubymotion.com/) に関する日本語の情報を集積する目的で作られました。
 
 ## イベント情報
+- [RubyMotion Advent Calendar 2012](http://www.adventar.org/calendars/18)
 - [第3回 RubyMotion もくもく会](http://connpass.com/event/1364/)
 2012/11/29 (木) 19:30 から開催されます。
 - [第2回 RubyMotion もくもく会](http://connpass.com/event/1201/)
