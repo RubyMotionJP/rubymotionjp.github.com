@@ -9,6 +9,8 @@ title: RubyMotionJP
 
 ## イベント情報
 - [RubyMotion Advent Calendar 2012](http://www.adventar.org/calendars/18)
+- [第6回 RubyMotion もくもく会](http://connpass.com/event/1745/)
+2013/02/20 (水) 19:30 から開催されます。
 - [第5回 RubyMotion もくもく会](http://connpass.com/event/1602/)
 2013/01/23 (水) 19:30 から開催されます。
 - [第4回 RubyMotion もくもく会](http://connpass.com/event/1534/)
