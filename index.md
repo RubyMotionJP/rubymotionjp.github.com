@@ -1,9 +1,9 @@
 ---
 layout: default
-title: RubyMotionJP
+title: RubyMotion JP
 ---
 
-## Welcome to RubyMotionJP
+## Welcome to RubyMotion JP
 
 このサイトは [RubyMotion](http://www.rubymotion.com/) に関する日本語の情報を集積する目的で作られました。
 
@@ -22,7 +22,6 @@ title: RubyMotionJP
 2012/10/18 (木) 19:30 から開催されます。
 - [第1回 RubyMotion もくもく会](http://connpass.com/event/1039/)
 2012/09/26 (水) 19:30 から開催されます。
-
 - [RubyMotion Advent Calendar 2012](http://www.adventar.org/calendars/18)
 
 ## 翻訳ドキュメント
@@ -53,7 +52,7 @@ MacRuby/RubyMotion それぞれに追加されているメソッドなどのリ�
 
 ## Links
 
-### [RubyMotionJP](https://github.com/RubyMotionJP) (Github Organization)
+### [RubyMotion JP](https://github.com/RubyMotionJP) (Github Organization)
 
 海外の情報の翻訳やライブラリやサンプルアプリの配布など？
 まずは [RubyMotion Tutorial](http://rubymotion-tutorial.com/) の翻訳を行う予定です。
