@@ -27,6 +27,10 @@ title: RubyMotion JP
 ## 翻訳ドキュメント
 [RubyMotion - Developer Center](http://www.rubymotion.com/developer-center/) で公開されているドキュメントを日本語に翻訳したものです。
 
+### チュートリアル
+
+- [RubyMotion Tutorial](http://tutorial.rubymotion.jp/)
+
 ### Guides
 
 - [Getting Started](/RubyMotionDocumentation/guides/getting-started/index.html)
