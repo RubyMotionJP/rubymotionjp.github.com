@@ -7,7 +7,12 @@ title: RubyMotion JP
 
 このサイトは [RubyMotion](http://www.rubymotion.com/) に関する日本語の情報を集積する目的で作られました。
 
+## RubyMotion Kaigi 2013
+[RubyMotion Kaigi 2013 の募集ページ](http://connpass.com/event/2095/) で、みなさんのご参加を受け付けております。発表者も募集しております。
+
 ## イベント情報
+- [第8回 RubyMotion もくもく会](http://connpass.com/event/2089/)
+2013/04/24 (水) 19:30 から開催されます。
 - [第7回 RubyMotion もくもく会](http://connpass.com/event/1917/)
 2013/03/21 (木) 19:30 から開催されます。
 - [第6回 RubyMotion もくもく会](http://connpass.com/event/1745/)
