@@ -59,6 +59,9 @@ MacRuby/RubyMotion それぞれに追加されているメソッドなどのリ�
 - [Boxed クラス](http://watson1978.github.com/MacRuby-DoJo/blog/2012/03/27/boxed-class/)
 - [Dispatch モジュール](http://watson1978.github.com/MacRuby-DoJo/blog/2012/03/31/dispatch-module/)
 
+## スライドなど
+- [第1回RubyMotion勉強会のスライド](http://satococoa.github.com/blog/2012/08/05/rubymotionjp-meetup-1st/)
+
 ## Links
 
 ### [RubyMotion JP](https://github.com/RubyMotionJP) (Github Organization)
