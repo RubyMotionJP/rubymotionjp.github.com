@@ -7,31 +7,9 @@ title: RubyMotion JP
 
 このサイトは [RubyMotion](http://www.rubymotion.com/) に関する日本語の情報を集積する目的で作られました。
 
-## RubyMotion Kaigi 2013
-[RubyMotion Kaigi 2013 の募集ページ](http://connpass.com/event/2095/) で、みなさんのご参加を受け付けております。発表者も募集しております。
-
 ## イベント情報
-- [第10回 RubyMotion もくもく会](http://connpass.com/event/2500/)
-2013/06/26 (水) 19:30 から開催されます。
-- [第9回 RubyMotion もくもく会](http://connpass.com/event/2317/)
-2013/05/21 (火) 19:30 から開催されます。
-- [第8回 RubyMotion もくもく会](http://connpass.com/event/2089/)
-2013/04/24 (水) 19:30 から開催されます。
-- [第7回 RubyMotion もくもく会](http://connpass.com/event/1917/)
-2013/03/21 (木) 19:30 から開催されます。
-- [第6回 RubyMotion もくもく会](http://connpass.com/event/1745/)
-2013/02/20 (水) 19:30 から開催されます。
-- [第5回 RubyMotion もくもく会](http://connpass.com/event/1602/)
-2013/01/23 (水) 19:30 から開催されます。
-- [第4回 RubyMotion もくもく会](http://connpass.com/event/1534/)
-2012/12/19 (水) 19:30 から開催されます。
-- [第3回 RubyMotion もくもく会](http://connpass.com/event/1364/)
-2012/11/29 (木) 19:30 から開催されます。
-- [第2回 RubyMotion もくもく会](http://connpass.com/event/1201/)
-2012/10/18 (木) 19:30 から開催されます。
-- [第1回 RubyMotion もくもく会](http://connpass.com/event/1039/)
-2012/09/26 (水) 19:30 から開催されます。
-- [RubyMotion Advent Calendar 2012](http://www.adventar.org/calendars/18)
+- 大阪 : [第1回 RubyMotion もくもく会 in Osaka](http://connpass.com/event/2611/) 2013/06/06 (木) 19:00 から開催されます。
+- 東京 : [第10回 RubyMotion もくもく会](http://connpass.com/event/2500/) 2013/06/26 (水) 19:30 から開催されます。
 
 ## 翻訳ドキュメント
 [RubyMotion - Developer Center](http://www.rubymotion.com/developer-center/) で公開されているドキュメントを日本語に翻訳したものです。
@@ -64,6 +42,7 @@ MacRuby/RubyMotion それぞれに追加されているメソッドなどのリ�
 - [Dispatch モジュール](http://watson1978.github.com/MacRuby-DoJo/blog/2012/03/31/dispatch-module/)
 
 ## スライドなどの資料
+- [RubyMotion Advent Calendar 2012](http://www.adventar.org/calendars/18)
 - [第1回RubyMotion勉強会のスライド](http://satococoa.github.com/blog/2012/08/05/rubymotionjp-meetup-1st/)
 - [Rubyist Magazine - RubyMotion のご紹介](http://jp.rubyist.net/magazine/?0039-IntroductionToRubyMotion)
 - [RubyMotion - naoyaのはてなダイアリー](http://d.hatena.ne.jp/naoya/20120831/1346409758)
