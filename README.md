@@ -15,7 +15,7 @@ $ sudo gem install jekyll
 ### 2. jekyll を起動します。
 
 ```
-$ jekyll --server --auto
+$ jekyll serve --watch
 ```
 
 ### 3. [http://0.0.0.0:4000/](http://0.0.0.0:4000/) にアクセスします。
