@@ -43,10 +43,11 @@ MacRuby/RubyMotion それぞれに追加されているメソッドなどのリ�
 - [Dispatch モジュール](http://watson1978.github.com/MacRuby-DoJo/blog/2012/03/31/dispatch-module/)
 
 ## スライドなどの資料
+- [Rubyist Magazine - RubyMotion Kaigi 2013 レポート](http://magazine.rubyist.net/?0043-RubyMotionKaigi2013Report)
 - [RubyMotion Advent Calendar 2012](http://www.adventar.org/calendars/18)
-- [第1回RubyMotion勉強会のスライド](http://satococoa.github.com/blog/2012/08/05/rubymotionjp-meetup-1st/)
 - [Rubyist Magazine - RubyMotion のご紹介](http://jp.rubyist.net/magazine/?0039-IntroductionToRubyMotion)
 - [RubyMotion - naoyaのはてなダイアリー](http://d.hatena.ne.jp/naoya/20120831/1346409758)
+- [第1回RubyMotion勉強会のスライド](http://satococoa.github.com/blog/2012/08/05/rubymotionjp-meetup-1st/)
 
 ## Links
 
