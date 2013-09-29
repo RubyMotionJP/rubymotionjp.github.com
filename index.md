@@ -70,3 +70,7 @@ Qiita に投稿された RubyMotion の記事です。
 ### [RubyMoion / はてなブックマーク](http://b.hatena.ne.jp/search/tag?q=rubymotion&users=1)
 
 はてなでブックマークされている RubyMotion に関する記事です。
+
+### [実践！RubyMotion](http://mobiletou.ch/stories/実践！rubymotion)
+
+[Mobile Touch](http://mobiletou.ch) 上の RubyMotion の連載記事です。
