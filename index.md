@@ -8,7 +8,7 @@ title: RubyMotion JP
 このサイトは [RubyMotion](http://www.rubymotion.com/) に関する日本語の情報を集積する目的で作られました。
 
 ## イベント情報
-- 東京 : [RubyMotionTokyo meetup#9](http://rubymotion-tokyo.doorkeeper.jp/events/6396) 2013/10/08 (火) 19:30 〜
+- 東京 : [RubyMotionTokyo meetup#10](http://rubymotion-tokyo.doorkeeper.jp/events/6690) 2013/11/05 (火) 19:30 〜
 - 東京 : [第14回 RubyMotion もくもく会 in Tokyo](http://connpass.com/event/3556/) 2013/10/23 (水) 19:30 〜
 - 大阪 : [第 4 回 RubyMotion もくもく会 in Osaka](http://connpass.com/event/3557/) 2013/10/23 (水) 19:30 〜
 
