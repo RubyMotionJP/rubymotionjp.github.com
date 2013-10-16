@@ -9,7 +9,7 @@ RubyMotionJP home page
 ### 1. jekyll をインストールします。
 
 ```
-$ sudo gem install jekyll
+$ gem install jekyll
 ```
 
 ### 2. jekyll を起動します。
