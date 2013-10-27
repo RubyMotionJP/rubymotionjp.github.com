@@ -7,6 +7,11 @@ title: RubyMotion JP
 
 このサイトは [RubyMotion](http://www.rubymotion.com/) に関する日本語の情報を集積する目的で作られました。
 
+## お知らせ
+今年も Advent Calendar やります！
+RubyMotion に関連するものでしたら何でも OK です。
+[RubyMotion Advent Calendar 2013](http://qiita.com/advent-calendar/2013/rubymotion) へぜひご参加ください。
+
 ## イベント情報
 - 東京 : [RubyMotionTokyo meetup#10](http://rubymotion-tokyo.doorkeeper.jp/events/6690) 2013/11/05 (火) 19:30 〜
 - 東京 : [第15回 RubyMotion もくもく会 in Tokyo](http://connpass.com/event/3870/) 2013/11/20 (水) 19:30 〜
