@@ -9,8 +9,8 @@ title: RubyMotion JP
 
 ## イベント情報
 - 東京 : [RubyMotionTokyo meetup#10](http://rubymotion-tokyo.doorkeeper.jp/events/6690) 2013/11/05 (火) 19:30 〜
-- 東京 : [第14回 RubyMotion もくもく会 in Tokyo](http://connpass.com/event/3556/) 2013/10/23 (水) 19:30 〜
-- 大阪 : [第 4 回 RubyMotion もくもく会 in Osaka](http://connpass.com/event/3557/) 2013/10/23 (水) 19:30 〜
+- 東京 : [第15回 RubyMotion もくもく会 in Tokyo](http://connpass.com/event/3870/) 2013/11/20 (水) 19:30 〜
+- 大阪 : [第 5 回 RubyMotion もくもく会 in Osaka](http://connpass.com/event/3871/) 2013/11/20 (水) 19:30 〜
 
 ## 翻訳ドキュメント
 [RubyMotion - Developer Center](http://www.rubymotion.com/developer-center/) で公開されているドキュメントを日本語に翻訳したものです。
