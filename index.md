@@ -13,9 +13,9 @@ RubyMotion に関連するものでしたら何でも OK です。
 [RubyMotion Advent Calendar 2013](http://qiita.com/advent-calendar/2013/rubymotion) へぜひご参加ください。
 
 ## イベント情報
-- 東京 : [RubyMotionTokyo meetup#10](http://rubymotion-tokyo.doorkeeper.jp/events/6690) 2013/11/05 (火) 19:30 〜
-- 東京 : [第15回 RubyMotion もくもく会 in Tokyo](http://connpass.com/event/3870/) 2013/11/20 (水) 19:30 〜
-- 大阪 : [第 5 回 RubyMotion もくもく会 in Osaka](http://connpass.com/event/3871/) 2013/11/20 (水) 19:30 〜
+- 東京 : [RubyMotionTokyo meetup#11](http://rubymotion-tokyo.doorkeeper.jp/events/7100) 2013/12/10 (火) 19:30 〜
+- 東京 : [第16回 RubyMotion もくもく会 in Tokyo](http://connpass.com/event/4210/) 2013/12/26 (木) 19:30 〜
+- 大阪 : [第 6 回 RubyMotion もくもく会 in Osaka](http://connpass.com/event/4211/) 2013/12/26 (木) 19:30 〜
 
 ## 翻訳ドキュメント
 [RubyMotion - Developer Center](http://www.rubymotion.com/developer-center/) で公開されているドキュメントを日本語に翻訳したものです。
