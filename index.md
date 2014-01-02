@@ -7,15 +7,10 @@ title: RubyMotion JP
 
 このサイトは [RubyMotion](http://www.rubymotion.com/) に関する日本語の情報を集積する目的で作られました。
 
-## お知らせ
-今年も Advent Calendar やります！
-RubyMotion に関連するものでしたら何でも OK です。
-[RubyMotion Advent Calendar 2013](http://qiita.com/advent-calendar/2013/rubymotion) へぜひご参加ください。
-
 ## イベント情報
+- 東京 : [第17回 RubyMotion もくもく会 in Tokyo](http://connpass.com/event/4559/) 2014/01/22 (水) 19:30 〜
+- 大阪 : [第 7 回 RubyMotion もくもく会 in Osaka](http://connpass.com/event/4560/) 2014/01/22 (水) 19:30 〜
 - 東京 : [RubyMotionTokyo meetup#11](http://rubymotion-tokyo.doorkeeper.jp/events/7100) 2013/12/10 (火) 19:30 〜
-- 東京 : [第16回 RubyMotion もくもく会 in Tokyo](http://connpass.com/event/4210/) 2013/12/26 (木) 19:30 〜
-- 大阪 : [第 6 回 RubyMotion もくもく会 in Osaka](http://connpass.com/event/4211/) 2013/12/26 (木) 19:30 〜
 
 ## 翻訳ドキュメント
 [RubyMotion - Developer Center](http://www.rubymotion.com/developer-center/) で公開されているドキュメントを日本語に翻訳したものです。
@@ -48,6 +43,7 @@ MacRuby/RubyMotion それぞれに追加されているメソッドなどのリ�
 - [Dispatch モジュール](http://watson1978.github.com/MacRuby-DoJo/blog/2012/03/31/dispatch-module/)
 
 ## スライドなどの資料
+- [RubyMotion Advent Calendar 2013](http://qiita.com/advent-calendar/2013/rubymotion)
 - [Rubyist Magazine - RubyMotion Kaigi 2013 レポート](http://magazine.rubyist.net/?0043-RubyMotionKaigi2013Report)
 - [RubyMotion Advent Calendar 2012](http://www.adventar.org/calendars/18)
 - [Rubyist Magazine - RubyMotion のご紹介](http://jp.rubyist.net/magazine/?0039-IntroductionToRubyMotion)
