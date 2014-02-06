@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "middleman", "~> 3.2.0"
-# gem "middleman-deploy"
+gem "middleman-deploy"
 # gem "middleman-favicon-maker", "~> 3.2"
 
 gem "compass", "~> 0.12.2"
