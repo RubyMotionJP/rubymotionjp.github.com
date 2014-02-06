@@ -1,0 +1,117 @@
+@import "compass"
+@import "h5bp"
+
+@include h5bp-normalize
+@include h5bp-base-styles
+
+@import "grid/magic"
+
+@import "font-awesome"
+
+$blue: #4a72b7
+$red : #d34251
+
+body
+  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif
+  background-color: #f5f7f2
+  background-image: url(/images/bg.png)
+  background-attachment: fixed
+  padding: 0 15px
+
+#side-content
+  +at-breakpoint($break-tablet)
+    position: relative
+  +at-breakpoint($break-desktop)
+    position: fixed
+  header
+    h1
+      width: 200px
+      margin-bottom: 5%
+      color: $red
+      +at-breakpoint($break-desktop)
+        margin-bottom: 50px
+  #side-menu
+    ul
+      margin: 0
+      padding: 0
+      li
+        a
+          color: rgba(74, 114, 183, .8)
+          font-size: 13px
+          text-decoration: underline
+          line-height: 2.0
+          &:hover
+            color: $red
+            text-decoration: none
+    .sub-list
+      margin-left: 20px
+      list-style-type: disc
+      color: rgba(74, 114, 183, .3)
+      a
+        font-size: 11px
+footer
+  clear: both
+  color: #999
+  font-size: 11px
+  text-align: right
+
+#main-content
+  margin-bottom: 10px
+  padding: 7% 5% 5% 0
+  background-color: #FEFEFE
+  box-shadow: 0 0 5px rgba(0, 0, 0, .1)
+  box-sizing: border-box
+  border-radius: 5px
+  color: $blue
+  font-size: 15px
+  line-height: 2.0
+  +at-breakpoint($break-desktop)
+    padding: 50px 50px 50px 0
+  h2
+    margin: 0 0 20px
+    padding-left: 5%
+    border-left: 4px solid rgba(74, 114, 183, .8)
+    font-size: 1.4rem
+    line-height: 1.6
+    +at-breakpoint($break-desktop)
+      padding-left: 45px
+      font-size: 30px
+  h3
+    margin: 0
+    padding-left: 7%
+    font-size: 20px
+    line-height: 1.4
+    +at-breakpoint($break-desktop)
+      padding-left: 50px
+  p
+    padding-left: 7%
+    margin-bottom: 40px
+    color: rgba(74, 114, 183, .8)
+    +at-breakpoint($break-desktop)
+      padding-left: 50px
+  ul
+    padding-left: 12%
+    margin-bottom: 50px
+    color: rgba(74, 114, 183, .8)
+    +at-breakpoint($break-desktop)
+      padding-left: 70px
+    li
+      margin-bottom: 10px
+      line-height: 1.6
+  a
+    color: $red
+    text-decoration: underline
+    font-weight: bold
+    &:hover
+      text-decoration: none
+
+.container
+  padding: 5% 0
+  +at-breakpoint($break-desktop)
+    padding: 50px 0
+  img
+    max-width: 100%
+    height: auto
+
+// Print styles.
+@include h5bp-media
