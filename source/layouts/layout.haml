@@ -1,0 +1,46 @@
+!!! 5
+/[if lt IE 7] <html class="no-js lt-ie9 lt-ie8 lt-ie7">
+/[if IE 7]    <html class="no-js lt-ie9 lt-ie8">
+/[if IE 8]    <html class="no-js lt-ie9">
+<!--[if gt IE 8]><!-->
+%html{ class: "no-js"}
+  <!--<![endif]-->
+  %head
+    %meta{ charset: "utf-8" }
+    %meta{ 'http-equiv' => "X-UA-Compatible", content: "IE=edge" }
+    %title= current_page.data.title
+    %meta{ name: "description", content: "RubyMotionに関する日本語の情報をまとめたサイトです" }
+    %meta{ name: "author", content: "RubyMotion,RubyMotionJP,日本語" }
+    %meta{ name: "viewport", content: "width=device-width, initial-scale=1.0" }
+    %meta{ content: "RubyMotion JP", property: "og:title" }
+    %meta{ content: "article", property: "og:type" }
+    %meta{ content: "RubyMotionに関する日本語の情報をまとめたサイトです", property: "og:description" }
+    %meta{ content: "http://rubymotion.jp/", property: "og:url" }
+    %meta{ content: "http://rubymotion.jp/ogp.png", property: "og:image" }
+    %meta{ content: "RubyMotion JP", property: "og:site_name" }
+    %link{ rel: "apple-touch-icon", sizes: "152x152", href: "apple-touch-icon-152x152-precomposed.png" }
+    %link{ rel: "apple-touch-icon", sizes: "144x144", href: "apple-touch-icon-144x144-precomposed.png" }
+    %link{ rel: "apple-touch-icon", sizes: "114x114", href: "apple-touch-icon-114x114-precomposed.png" }
+    %link{ rel: "apple-touch-icon", sizes: "72x72", href: "apple-touch-icon-72x72-precomposed.png" }
+    %link{ rel: "apple-touch-icon", href: "apple-touch-icon-precomposed.png" }
+    %link{ rel: "shortcut icon", href: "favicon.png" }
+    %link{ rel: "icon", type: "image/ico", href: "favicon.ico" }
+    = stylesheet_link_tag "screen"
+    = javascript_include_tag "libs/modernizr-2.7.1.min"
+
+  %body{ class: current_page.data.bodyclass}
+    .container#top
+      #side-content
+        = partial "layouts/side"
+      #main-content{ role: "main"}
+        = yield
+      %footer
+        %p This site is maintained by: RubyMotion JP.
+
+    = javascript_include_tag "//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"
+    :javascript
+      window.jQuery || document.write('<script src="/javascripts/libs/jquery-1.10.2.min.js"><\/script>')
+
+    = javascript_include_tag "libs/holder", "mylibs/jquery.smoothScroll.js"
+
+    = javascript_include_tag "plugins", "script"

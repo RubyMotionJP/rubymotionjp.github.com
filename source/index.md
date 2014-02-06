@@ -1,29 +1,40 @@
 ---
-layout: default
 title: RubyMotion JP
 ---
+
+<div id="section01"></div>
 
 ## Welcome to RubyMotion JP
 
 このサイトは [RubyMotion](http://www.rubymotion.com/) に関する日本語の情報を集積する目的で作られました。
+
+<div id="section02"></div>
 
 ## イベント情報
 - 東京 : [第18回 RubyMotion もくもく会 in Tokyo](http://connpass.com/event/4899/) 2014/02/20 (木) 19:30 〜
 - 大阪 : [第 8 回 RubyMotion もくもく会 in Osaka](http://connpass.com/event/4910/) 2014/02/19 (水) 19:30 〜
 - 東京 : [RubyMotionTokyo meetup#12](http://rubymotion-tokyo.doorkeeper.jp/events/8189) 2014/02/04 (火) 19:30 〜
 
+<div id="section03"></div>
+
 ## 翻訳ドキュメント
 [RubyMotion - Developer Center](http://www.rubymotion.com/developer-center/) で公開されているドキュメントを日本語に翻訳したものです。
+
+<div id="section03-01"></div>
 
 ### チュートリアル
 
 - [RubyMotion Tutorial](http://tutorial.rubymotion.jp/)
+
+<div id="section03-02"></div>
 
 ### Guides
 
 - [Getting Started](/RubyMotionDocumentation/guides/getting-started/index.html)
 - [Runtime](/RubyMotionDocumentation/guides/runtime/index.html)
 - [Project Management](/RubyMotionDocumentation/guides/project-management/index.html)
+
+<div id="section03-03"></div>
 
 ### Articles
 
@@ -34,6 +45,8 @@ title: RubyMotion JP
 - [Writing tests for apps](/RubyMotionDocumentation/articles/testing/index.html)
 - [Debugging apps](http://rubymotion.jp/RubyMotionDocumentation/articles/debugging/index.html)
 
+<div id="section04"></div>
+
 ## リファレンス
 MacRuby/RubyMotion それぞれに追加されているメソッドなどのリファレンスへのリンクです。
 
@@ -42,6 +55,8 @@ MacRuby/RubyMotion それぞれに追加されているメソッドなどのリ�
 - [Boxed クラス](http://watson1978.github.com/MacRuby-DoJo/blog/2012/03/27/boxed-class/)
 - [Dispatch モジュール](http://watson1978.github.com/MacRuby-DoJo/blog/2012/03/31/dispatch-module/)
 
+<div id="section05"></div>
+
 ## スライドなどの資料
 - [RubyMotion Advent Calendar 2013](http://qiita.com/advent-calendar/2013/rubymotion)
 - [Rubyist Magazine - RubyMotion Kaigi 2013 レポート](http://magazine.rubyist.net/?0043-RubyMotionKaigi2013Report)
@@ -49,6 +64,8 @@ MacRuby/RubyMotion それぞれに追加されているメソッドなどのリ�
 - [Rubyist Magazine - RubyMotion のご紹介](http://jp.rubyist.net/magazine/?0039-IntroductionToRubyMotion)
 - [RubyMotion - naoyaのはてなダイアリー](http://d.hatena.ne.jp/naoya/20120831/1346409758)
 - [第1回RubyMotion勉強会のスライド](http://satococoa.github.com/blog/2012/08/05/rubymotionjp-meetup-1st/)
+
+<div id="section06"></div>
 
 ## Links
 
