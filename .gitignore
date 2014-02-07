@@ -2,3 +2,5 @@
 build/
 .sass-cache
 bin/
+.bundle/
+vendor/bundle
