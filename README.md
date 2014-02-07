@@ -25,3 +25,12 @@ $ bundle exec middleman
 ```
 
 ### 3. [http://localhost:4567/](http://localhost:4567/) にアクセスします。
+
+### 4. デプロイ方法
+
+```
+$ bundle exec middleman build # 静的ファイルが生成されます
+$ bundle exec middleman deploy
+```
+
+
