@@ -11,7 +11,7 @@ title: RubyMotion JP
 <div id="section02"></div>
 
 ## イベント情報
-- 東京 : [第20回 RubyMotion もくもく会 in Tokyo](http://connpass.com/event/5693/) 2014/04/16 (水) 19:30 〜
+- 東京 : [第21回 RubyMotion もくもく会 in Tokyo](http://connpass.com/event/5989/) 2014/05/22 (木) 19:30 〜
 - 大阪 : [第 11 回 RubyMotion もくもく会 in Osaka](http://connpass.com/event/6116/) 2014/05/28 (水) 19:30 〜
 - 東京 : [RubyMotionTokyo meetup#15](http://rubymotion-tokyo.doorkeeper.jp/events/10969) 2014/05/07 (水) 19:30 〜
 
