@@ -80,6 +80,10 @@ MacRuby/RubyMotion それぞれに追加されているメソッドなどのリ�
 RubyMotion についての日本語での情報交換や勉強会等の相談を行います。
 参加資格は特にありません。お気軽にご参加ください。
 
+### [Slack Channel](https://slack-rubymotionjp.herokuapp.com/)
+
+RubyMotion について雑談したり情報交換を行う、Slack のオープンなチャンネルです。
+参加資格は特にありません。お気軽にご参加ください。
 
 ### [RubyMotion / Qiita](http://qiita.com/tags/RubyMotion)
 
